@@ -1,4 +1,4 @@
-👋 Hi, I’m @nematik06  
+👋 Hi, I’m Nematullokh Akhmedov
 - 👀 I’m interested in **FinTech, Automation, FIX protocol, Trading systems, and web/app development**  
 - 🌱 I’m currently learning **Java (QuickFIX/J), Python automation, React for mobile apps**  
 - 💞️ I’m looking to collaborate on **FinTech projects, trading integrations, and educational tech platforms**  
